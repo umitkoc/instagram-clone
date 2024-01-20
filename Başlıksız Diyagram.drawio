@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-20T00:39:46.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gZ7lCtilTVat6ZL7w6ob" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-20T00:40:51.976Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fgh7TnTRIRY7PbiHWyTm" version="22.1.21" type="github">
   <diagram name="Sayfa -1" id="eU-fJsf1K0A9oVs6Q9NI">
     <mxGraphModel dx="1423" dy="826" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="1">
       <root>
@@ -61,6 +61,9 @@
         </mxCell>
         <mxCell id="NNiYG3pM8YccFziA7ECe-24" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.android;fillColor=default;strokeColor=default;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="479" y="802" width="67.60000000000001" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NNiYG3pM8YccFziA7ECe-25" value="" style="image;sketch=1;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/API_Management.svg;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;imageBackground=default;imageBorder=default;" vertex="1" parent="1">
+          <mxGeometry x="579.05" y="802" width="80.95" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
